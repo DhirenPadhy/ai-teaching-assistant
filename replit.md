@@ -64,3 +64,6 @@ Faculty-facing dashboard to generate teaching materials (slides, quizzes, exampl
 
 - `pnpm-workspace` skill — workspace structure, TypeScript setup, codegen conventions
 - `ai-integrations-openai` skill — Replit AI proxy setup (no user API key needed)
+
+#Live Demo
+https://ai-educator-suite--dhirenpadhy88.replit.app/
